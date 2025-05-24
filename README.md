@@ -1,10 +1,10 @@
 # Oie, Venícius aqui
 
-## Eu sou **venicius8** (mas podem me chamar de **Veni**)!
+## Eu sou **venicius8** (mas pode me chamar de **Veni**)!
 
-Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e ao mesmo tempo poder aplicar na hora, além de poder criar QUALQUER coisa. E o melhor: no conforto do meu sofá!
+Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e ao mesmo tempo poder aplicar na hora, além de poder criar QUALQUER coisa. E o melhor: no conforto da minha casa!
 
-### 🛠️ As tecnologias que estou aprendendo:
+### 🛠️ As tecnologias que já usei e apliquei:
 
 - **Web:** HTML, CSS, JavaScript
 - **Frameworks web:** React, Bootstrap
