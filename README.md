@@ -14,7 +14,7 @@ Sou um **entusiasta** na programação e estou explorando essa jornada no **mund
 
 ### 💻 Projetos em que estou trabalhando
 
-- **[Meu Portfólio](https://github.com/venicius8/portfolio)**  
+- **[Meu Portfólio](https://veniciusportfolio.netlify.app)**  
 Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão sendo construidos.
 
 ---
