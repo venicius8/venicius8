@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=a663cc&size=35&center=true&vCenter=true&width=1000&lines=Tenho+18+anos;Sou+do+litoral+brasileiro;Sou+dev+Full-Stack;I+Love+Coding+:%29)](https://git.io/typing-svg)
 
-Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e ao mesmo tempo poder aplicar na hora, além de poder criar QUALQUER coisa. E o melhor: no conforto da minha casa!
+Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e poder aplicar na mesma hora, além de permitir criar QUALQUER coisa. E o melhor: no conforto da minha casa!
 
 ## Tecnologias que uso ou já apliquei:
 
@@ -32,7 +32,7 @@ Sou um **entusiasta** na programação e estou explorando essa jornada no **mund
 ## 💻 Projetos em que estou trabalhando
 
 - **[Meu Portfólio](https://veniciusportfolio.netlify.app)**  
-Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão sendo construidos.
+Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão sendo construídos.
 
 ---
 
@@ -46,6 +46,13 @@ Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão s
 ## 📘 Como eu aprendo
 
 - Eu estudo em diversos lugares na internet: W3Schools, ChatGPT (e outras IAs), aulas do Gustavo Guanabara, Filipe Deschamps, dentre outros.
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venícius-silva-b05183357)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelsilva8v@gmail.com)
 
 ---
 
