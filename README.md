@@ -1,10 +1,10 @@
 # Oie, Venícius aqui
 
-## Eu sou **venicius8** (mas pode me chamar de **Veni**)!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=a663cc&size=35&center=true&vCenter=true&width=1000&lines=Tenho+18+anos;Sou+do+litoral+brasileiro;Sou+dev+Full-Stack;I+Love+Coding+:%29)](https://git.io/typing-svg)
 
 Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e ao mesmo tempo poder aplicar na hora, além de poder criar QUALQUER coisa. E o melhor: no conforto da minha casa!
 
-## As tecnologias que já usei e apliquei:
+## Tecnologias que uso ou já apliquei:
 
 ### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,4 +49,4 @@ Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão s
 
 ---
 
-Valeu por dar uma olhada no meu perfil! Fique à vontade para me dar sugestões ou conversar sobre algo. Estou aqui para aprender e evoluir.
+Valeu por dar uma olhada no meu perfil! Se quiser me dar algumas sugestões ou conversar sobre algo, estou aqui ;)
