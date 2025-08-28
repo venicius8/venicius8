@@ -1,4 +1,4 @@
-# Oie, Venícius aqui
+# Saudações! Venícius aqui
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=a663cc&size=35&center=true&vCenter=true&width=1000&lines=Tenho+18+anos;Sou+do+litoral+brasileiro;Sou+dev+Full-Stack;I+Love+Coding+:%29)](https://git.io/typing-svg)
 
@@ -24,8 +24,6 @@ Sou um **entusiasta** na programação e estou explorando essa jornada no **mund
 ### 🎲 Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
 
 ---
 
@@ -39,13 +37,13 @@ Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão s
 ## 🎯 Meus objetivos:
 
 - **Curto prazo**: Quero conseguir ajudar programando, como projetos pequenos ou ajudando em algo mais simples.
-- **Longo prazo**: Meu grande objetico é me tornar um desenvolvedor full-stack ou front/back-end, e entrar no mercado de trabalho.
+- **Longo prazo**: Meu grande objetivo é me tornar um desenvolvedor full-stack ou front/back-end, e entrar no mercado de trabalho para fazer a diferença em startups ou grandes corporações.
 
 ---
 
 ## 📘 Como eu aprendo
 
-- Eu estudo em diversos lugares na internet: W3Schools, ChatGPT (e outras IAs), aulas do Gustavo Guanabara, Filipe Deschamps, dentre outros.
+- Eu estudo em diversos lugares na internet: freeCodeCamp, com IAs (DeepSeek, Grok), aulas do Gustavo Guanabara e Filipe Deschamps, e dentre outros.
 
 ---
 
