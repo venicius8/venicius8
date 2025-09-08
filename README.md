@@ -30,7 +30,9 @@ Sou um **entusiasta** na programação e estou explorando essa jornada no **mund
 ## 💻 Projetos em que estou trabalhando
 
 - **[Meu Portfólio](https://veniciusportfolio.netlify.app)**  
-Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão sendo construídos.
+Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão sendo construídos, além da...
+- **[Minha página pessoal](https://veniciusdev.netlify.app)**
+Onde detalho mais sobre minha vida e minha jornada no mundo de desenvolvimento.
 
 ---
 
@@ -43,7 +45,7 @@ Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão s
 
 ## 📘 Como eu aprendo
 
-- Eu estudo em diversos lugares na internet: freeCodeCamp, com IAs (DeepSeek, Grok), aulas do Gustavo Guanabara e Filipe Deschamps, e dentre outros.
+- Eu estudo em diversos lugares na internet: na plataforma freeCodeCamp, com ajuda das IAs (DeepSeek, Grok), com aulas do Gustavo Guanabara, me desafiando no LeetCode, e dentre outros.
 
 ---
 
