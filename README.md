@@ -1,6 +1,6 @@
 # Saudações! Venícius aqui
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=a663cc&size=35&center=true&vCenter=true&width=1000&lines=Tenho+18+anos;Sou+do+litoral+brasileiro;Sou+dev+Full-Stack;I+Love+Coding+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Tenho+18+anos;Sou+do+litoral+brasileiro;Sou+dev+Full-Stack;I+Love+Coding+:%29)](https://git.io/typing-svg)
 
 Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e poder aplicar na mesma hora, além de permitir criar QUALQUER coisa. E o melhor: no conforto da minha casa!
 
