@@ -32,12 +32,20 @@ Sou um **entusiasta** na programação e estou explorando essa jornada no **mund
 
 ---
 
-## 💻 Projetos em que estou trabalhando
+## 💻 Principais projetos em que estou trabalhando
 
-- **[Meu Portfólio](https://veniciusportfolio.netlify.app)**  
-Esse é o meu portfólio. Aqui, você pode ver meus projetos e os quais estão sendo construídos, além da...
-- **[Minha página pessoal](https://veniciusdev.netlify.app)**
-Onde detalho mais sobre minha vida e minha jornada no mundo de desenvolvimento.
+- **[YouZen](https://youzen.vercel.app)**
+Uma plataforma multiutilidade para meditação, com opçôes de escutar sons naturais, respiração guiada, diário de gratidão e muito mais. Construído em Next e Tailwind.
+
+- **[LangMachine](https://langmachine.vercel.app)**
+Um projeto full-stack que utiliza IA para ajudar usuários a aprender idiomas de forma interativa em texto. É um projeto full-stack, isso é, utiliza, Express, Next, Groq, e afins.
+
+-**[Manipulador RGB](https://manipuladorrgb.netlify.app/)**
+App-web extremamente leve que simula pixels. O usuário manipula as três cores e sua intencidade para obter qualquer cor, assim como em sistema RGB. COnstruído em HTML, CSS e JS.
+
+- **[Meu Portfólio](https://veniciusportfolio.netlify.app)**
+Mais projetos em meu **portfólio**, onde mostro os código fonte, live demo e detalhes extras. Página construída principalmente em React e CSS.
+
 
 ---
 
