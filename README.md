@@ -52,6 +52,49 @@ Mais projetos em meu **portfólio**, onde mostro os código fonte, live demo e d
 
 ---
 
+## 🔥 Atividades Recentes & Conquistas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br/>
+      <b>💻 Desenvolvimento de Software</b><br/>
+      <sub>Criando aplicações robustas e escaláveis</sub><br/>
+      <sub>⚡ Codificação ativa e design de arquitetura</sub><br/>
+      <sub>🎯 Foco: Frontend & Backend</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="70"/><br/>
+      <b>🛠️ Desenvolvimento de Ferramentas</b><br/>
+      <sub>Criando utilitários e scripts personalizados</sub><br/>
+      <sub>⚡ Automação para fluxos de trabalho diários</sub><br/>
+      <sub>🎯 Foco: Produtividade & Experiência do Desenvolvedor</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70"/><br/>
+      <b>📝 Documentação</b><br/>
+      <sub>Escrevendo documentações detalhadas e guias de projeto</sub><br/>
+      <sub>⚡ Escrita técnica e arquitetura de sistemas</sub><br/>
+      <sub>🎯 Foco: Legibilidade do Código & Open Source</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="70"/><br/>
+      <b>📚 Aprendizado Contínuo</b><br/>
+      <sub>Me mantendo atualizado com as últimas tecnologias</sub><br/>
+      <sub>⚡ Dominando novos frameworks e melhores práticas</sub><br/>
+      <sub>🎯 Foco: Artesanato de Software & Inovação</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🎯 Meus objetivos:
 
 - **Curto prazo**: Quero conseguir ajudar programando, como projetos pequenos ou ajudando em algo mais simples.
