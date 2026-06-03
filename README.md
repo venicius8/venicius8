@@ -118,11 +118,27 @@ Mais projetos em meu **portfólio**, onde mostro os código fonte, live demo e d
 
 ---
 
-## 📫 Onde me encontrar
+## 📬 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venícius-silva-b05183357)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venicius8v@gmail.com)
+<div align="center">
 
----
+| 🌐 **LinkedIn** | ✉️ **Gmail** | 🐙 **GitHub** |
+|:---:|:---:|:---:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venícius-silva-b05183357) | [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venicius8v@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venicius8v) |
 
-Valeu por dar uma olhada no meu perfil! Se quiser me dar algumas sugestões ou conversar sobre algo, estou aqui ;)
+> *Aberto a oportunidades e novas colaborações*
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=100&section=footer"/>
+
+</div>
+
+```bash
+$ echo "Pronto para o próximo commit"
+> Venícius Miguel full-stack developer
+> Status: Open to opportunities & collaboration
+> $ ./start_coding.sh
+```
