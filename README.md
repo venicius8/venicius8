@@ -109,9 +109,12 @@ Mais projetos em meu **portfólio**, onde mostro os código fonte, live demo e d
 
 ---
 
-## 📘 Como eu aprendo
+## 📚 Como eu aprendo
 
-- Eu estudo em diversos lugares na internet: na plataforma freeCodeCamp, com ajuda das IAs (DeepSeek, Grok), com aulas do Gustavo Guanabara, me desafiando no LeetCode, e dentre outros.
+- 🎥 **Cursos Estruturados**: freeCodeCamp e Curso em Vídeo (Gustavo Guanabara) para fundamentos sólidos.
+- 🤖 **Assistente IA**: Gemini, Grok e LeoAI para tirar dúvidas, refatorar código e explorar novos conceitos.
+- 🧩 **Desafios Diários**: LeetCode para afiar a lógica e algoritmos.
+- 🛠️ **Mão na Massa**: Criando projetos reais (como o YouZen e LangMachine) para consolidar o conhecimento.
 
 ---
 
