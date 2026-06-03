@@ -1,8 +1,8 @@
 # Saudações! Venícius aqui
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Tenho+19+anos;Sou+do+litoral+brasileiro;Sou+dev+Full-Stack;I+Love+Coding+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Tenho+19+anos;Sou+do+litoral+Pernambucano;Sou+dev+front-end...;...+E+back-end+também;I+Love+Coding+:%29)](https://git.io/typing-svg)
 
-Sou um **entusiasta** na programação e estou explorando essa jornada no **mundo full-stack**. O que eu mais gosto na programação, é o raciocínio lógico, e poder aplicar na mesma hora, além de permitir criar QUALQUER coisa. E o melhor: no conforto da minha casa!
+Me chamo **Venícius Miguel** e sou um desenvolvedor full-stack que trabalha com JavaScript e suas tecnologias (como Node e React), além de implementar soluções escaláveis e modernas para web e backend.
 
 ## Tecnologias que gosto de trabalhar:
 
