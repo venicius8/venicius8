@@ -95,10 +95,17 @@ Mais projetos em meu **portfólio**, onde mostro os código fonte, live demo e d
 
 ---
 
-## 🎯 Meus objetivos:
+## 🚀 Próximos Desafios
 
-- **Curto prazo**: Quero conseguir ajudar programando, como projetos pequenos ou ajudando em algo mais simples.
-- **Longo prazo**: Meu grande objetivo é me tornar um desenvolvedor full-stack ou front/back-end, e entrar no mercado de trabalho para fazer a diferença em startups ou grandes corporações.
+<div align="center">
+
+| 🌱 **Crescimento** | 🛠️ **Tecnologia** | 🌍 **Impacto** |
+|:---:|:---:|:---:|
+| Contribuir ativamente com projetos Open Source | Dominar arquitetura de microsserviços e escalabilidade | Criar soluções que resolvam problemas reais |
+| Participar de eventos de tech | Explorar novas integrações com IA Generativa | Colaborar com startups inovadoras |
+| Refinar habilidades de código limpo e testes | Aprofundar conhecimento em DevOps e Cloud | Desmitificar códigos de forma clara |
+
+</div>
 
 ---
 
