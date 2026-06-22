@@ -122,9 +122,9 @@ Mais projetos em meu **portfólio**, onde mostro os código fonte, live demo e d
 
 <div align="center">
 
-| 🌐 **LinkedIn** | ✉️ **Gmail** | 🐙 **GitHub** |
+| 🌐 **LinkedIn** | ✉️ **Email** | 🐙 **GitHub** |
 |:---:|:---:|:---:|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venícius-silva-b05183357) | [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venicius8v@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venicius8v) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venícius-silva-b05183357) | [![Proton Mail](https://img.shields.io/badge/ProtonMail-%236D4AFF.svg?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:veniciusmiguel@protonmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venicius8v) |
 
 > *Aberto a oportunidades e novas colaborações*
 
